@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Catboost
+catboost_info/
+
+# Kaggle competition data (not redistributable; downloaded by the notebook)
+data/
